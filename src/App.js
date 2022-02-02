@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState, useRef } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { connect } from "./redux/blockchain/blockchainActions";
@@ -325,7 +326,7 @@ function App() {
                         disabled={claimingNft ? 1 : 0}
                         onClick={(e) => {
                           e.preventDefault();
-                          decrementMintAmount();
+                          decrementMintAmount(1);
                         }}
                       >
                         -
@@ -344,7 +345,7 @@ function App() {
                         disabled={claimingNft ? 1 : 0}
                         onClick={(e) => {
                           e.preventDefault();
-                          incrementMintAmount();
+                          incrementMintAmount(1);
                         }}
                       >
                         +
