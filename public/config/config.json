@@ -1,18 +1,19 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
-  },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
-  "SHOW_BACKGROUND": true
+    "CONTRACT_ADDRESS": "0xE01e8df2Cc6E4b415E77f26646C84c5626dAb11E",
+    "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xE01e8df2Cc6E4b415E77f26646C84c5626dAb11E",
+    "NETWORK": {
+        "NAME": "Rinkby",
+        "SYMBOL": "ETH",
+        "ID": 4
+    },
+    "NFT_NAME": "FMC Card ",
+    "SYMBOL": "FMC Card",
+    "MAX_SUPPLY": 10000,
+    "WEI_COST": 240000000000000000,
+    "DISPLAY_COST": 0.24,
+    "GAS_LIMIT": 3000000,
+    "MINT_AMOUNT": 1,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-startup-jd3dxgvrja",
+    "SHOW_BACKGROUND": true
 }
