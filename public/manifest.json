@@ -17,7 +17,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "https://cuality.github.io/hashlips_nft_minting_dapp/",
+    "start_url": "https://github.com/Cuality/hashlips_nft_minting_dapp/blob/main/public/index.html",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
